@@ -3,10 +3,8 @@
 ## Tabela de Conteúdo
 <!--ts-->
    * [Sobre o projeto](#sobre-o-projeto)
-      * [Layout da aplicação](#layout-da-aplicação)
-      * [Construído com](#construído-com)
-      * [Vercel](#vercel)
-   * [Autora](#autora)
+   * [Construído com](#construído-com)
+   * [Jogue você também!](#vercel)
 <!--te-->
 
 <br>
