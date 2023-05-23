@@ -23,12 +23,16 @@ h1 {
     font-size: 5em;
 }
 
+h2 {
+    font-size: 4em;
+}
+
 h3 {
     font-size: 2em;
     margin-top: 20px;
 }
 
-.mensagem {
+.message {
     font-size: 1.5em;
     margin-top: 40px;
 }
@@ -39,4 +43,14 @@ h3 {
     font-size: 4em;
     padding: 10px;
     margin: 20px;
+}
+
+.btn-play {
+    margin-top: 20px;
+    padding: 8px 15px;
+    border: 0;
+    border-radius: 5px;
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+    cursor: pointer;
 }
